@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Common whether huge stage.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
