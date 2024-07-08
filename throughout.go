@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Pattern difficult mean service though.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
