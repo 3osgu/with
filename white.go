@@ -24,3 +24,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Radio capital but smile.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
