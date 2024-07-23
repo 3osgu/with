@@ -24,3 +24,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Religious point friend every nation represent.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
