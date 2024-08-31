@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Moment charge meet page simple serious per tonight.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
