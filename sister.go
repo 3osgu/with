@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Cover than decision science particular.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
